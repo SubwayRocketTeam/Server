@@ -15,8 +15,3 @@
 #define INT(name) int name
 #define FLOAT(name) float name
 #define CHAR(name) char name
-
-/* max-length */
-#define MAX_user_id 32
-#define MAX_user_pw 32
-#define MAX_nickname 32
