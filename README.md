@@ -1,15 +1,6 @@
 choco
 =================
 
-__붙어있는 모듈들__
-- libcurl
-- storm, mysql
-
-__보류__
-- redis (choco::cluster로 대체)
-
-
-
 TODO
 ----
 __아직 안 된 것들__
